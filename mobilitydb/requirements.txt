@@ -1,0 +1,6 @@
+python-decouple
+pathlib 
+requests
+zipfile36
+pandas
+psycopg2
